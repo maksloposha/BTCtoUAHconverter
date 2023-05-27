@@ -16,7 +16,7 @@ Getting Started
 Clone the repository:
 
 Copy code
-git clone https://github.com/maksloposha/user-subscription-app.git
+git clone https://github.com/maksloposha/BTCtoUAHconverter
 Navigate to the project directory:
 
 
